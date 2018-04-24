@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[3]:
-
-
 # -*- coding: utf-8 -*-
 import string
 
